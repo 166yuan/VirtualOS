@@ -1,9 +1,9 @@
 package com.os.memory;
 /**
  * Memory or something...
- * @author Liang Bizhi
+ * @author ChenSiyuan
  *
  */
 public class Memory {
-
+		
 }
